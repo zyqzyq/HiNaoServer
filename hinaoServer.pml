@@ -7,6 +7,7 @@
     <Dialogs />
     <Resources>
         <File name="popup" src="popup.wav" />
+        <File name="README" src="README.md" />
     </Resources>
     <Topics />
     <IgnoredPaths />
